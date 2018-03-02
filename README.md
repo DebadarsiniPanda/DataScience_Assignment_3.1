@@ -9,5 +9,5 @@
 ## Snapshot - Custom reduce and filter implementation 
 
 
-![alt text](screenshots/moving_average_numpy_implementation.png "cutom reduce and filter implementation")
+![alt text](screenshots/custom_reduce_filter.png "cutom reduce and filter implementation")
 
